@@ -1,0 +1,121 @@
+/* {
+    border: 2px solid black;
+}*/
+
+body {
+    background-color: rgb(204, 204, 204);
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: orangered;
+    padding-left: 10px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: orangered;
+    margin: 0;
+    padding-left: 10px;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(204, 204, 204);
+    font-weight: 100;
+    text-align: center;
+    margin: 0px 3px;
+    padding: 15px;
+}
+
+.pizza {
+    color: #E6A933;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center; 
+    margin-bottom: 0;
+    color: orangered;
+}
+.card-1 {
+    width: 800px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+.estrelinhas {
+    width: 25px;
+    height: 25px;
+}
+
+.icone {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25px;
+    height: 25px;
+}
+
+.titulo, .infos {
+    display: flex;
+}
+
+.dificuldade {
+    margin-left: auto;
+    padding-right: 10px;
+}
+
+.box {
+    width: 150px;
+    height: 90px;
+    margin-left: 4px;
+    padding-top: 20px;
+    border: 1px solid  #E6A933;
+    margin-bottom: 4px;
+    border-radius: 4px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: orangered;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 0;
+}
+
+span {
+    color:  rgb(204, 204, 204);
+    font-weight: 700;
+}
+
+.ingredientes {
+    display: flex;
+    justify-content: center;
+}
+
+.icone-2 {
+    width: 25px;
+    height: 25px;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: orangered;
+    font-weight: 600;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+a:visited {
+    text-decoration: none;
+}
